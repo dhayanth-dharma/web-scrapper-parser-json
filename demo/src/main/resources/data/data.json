@@ -1,0 +1,257 @@
+{
+   "keywords":[
+      "21000"
+   ],
+   "results":[
+      {
+         "keyword":"21000",
+         "standards":[
+            {
+               "name":"ISO/IEC 21000-16:2005",
+               "url":"https://www.iso.org/contents/data/standard/04/16/41692.html",
+               "ics":"ICS > 35 > 35.040 > 35.040.40",
+               "code":"ISO/IEC 21000-16:2005",
+               "title":"Information technology — Multimedia framework (MPEG-21) — Part 16: Binary Format",
+               "abstract":"ISO/IEC 21000-16:2005 specifies the binary format to efficiently serialize XML-based descriptions as specified within other ISO/IEC 21000 parts. The MPEG-21 binary format enables the efficient interchange or storage of ISO/IEC 21000 descriptions.\nISO/IEC 21000 (MPEG-21) defines an open framework for multimedia delivery and consumption, with both the content creator and content consumer as focal points. The vision for MPEG-21 is to define a multimedia framework to enable transparent and augmented use of multimedia resources across a wide range of networks and devices used by different communities.",
+               "info":[
+                  {
+                     "status":"Published",
+                     "pub_date":"2005-10",
+                     "edition":"Edition : 1",
+                     "pages":"Number of pages : 5",
+                     "tech_commitee":"Technical Committee : ISO/IEC JTC 1/SC 29 Coding of audio, picture, multimedia and hypermedia information",
+                     "ics":"ICS : 35.040.40 Coding of audio, video, multimedia and hypermedia information"
+                  }
+               ],
+               "life_cycle":[
+                  {
+                     "stage":"00\n10\n20\n30\n40\n50\n60\n90.93 Review\n95",
+                     "revisions":"Now confirmed\nISO/IEC 21000-16:2005"
+                  }
+               ],
+               "group_info":"Status : Published\nPublication date : 2005-10\nEdition : 1\nNumber of pages : 5\nTechnical Committee : ISO/IEC JTC 1/SC 29 Coding of audio, picture, multimedia and hypermedia information\nICS : 35.040.40 Coding of audio, video, multimedia and hypermedia information"
+            },
+            {
+               "name":"ISO/IEC 21000-4:2006/Amd 1:2007",
+               "url":"https://www.iso.org/contents/data/standard/04/55/45533.html",
+               "ics":"ICS > 35 > 35.040 > 35.040.40",
+               "code":"ISO/IEC 21000-4:2006/Amd 1:2007",
+               "title":"Information technology — Multimedia framework (MPEG-21) — Part 4: Intellectual Property Management and Protection Components — Amendment 1: IPMP components base profile",
+               "info":[
+                  {
+                     "status":"Published",
+                     "pub_date":"2007-12",
+                     "edition":"Edition : 1",
+                     "pages":"Number of pages : 17",
+                     "tech_commitee":"Technical Committee : ISO/IEC JTC 1/SC 29 Coding of audio, picture, multimedia and hypermedia information",
+                     "ics":"ICS : 35.040.40 Coding of audio, video, multimedia and hypermedia information"
+                  }
+               ],
+               "life_cycle":[
+                  {
+                     "stage":"00\n10\n20\n30\n40\n50\n60.60 Publication\n90\n95",
+                     "revisions":"Now\nISO/IEC 21000-4:2006/Amd 1:2007"
+                  }
+               ],
+               "group_info":"Status : Published\nPublication date : 2007-12\nEdition : 1\nNumber of pages : 17\nTechnical Committee : ISO/IEC JTC 1/SC 29 Coding of audio, picture, multimedia and hypermedia information\nICS : 35.040.40 Coding of audio, video, multimedia and hypermedia information"
+            },
+            {
+               "name":"ISO/IEC 21000-18:2007/Amd 1:2008",
+               "url":"https://www.iso.org/contents/data/standard/04/64/46468.html",
+               "ics":"ICS > 35 > 35.040 > 35.040.40",
+               "code":"ISO/IEC 21000-18:2007/Amd 1:2008",
+               "title":"Information technology — Multimedia framework (MPEG-21) — Part 18: Digital Item Streaming — Amendment 1: Simple fragmentation rule",
+               "info":[
+                  {
+                     "status":"Published",
+                     "pub_date":"2008-06",
+                     "edition":"Edition : 1",
+                     "pages":"Number of pages : 21",
+                     "tech_commitee":"Technical Committee : ISO/IEC JTC 1/SC 29 Coding of audio, picture, multimedia and hypermedia information",
+                     "ics":"ICS : 35.040.40 Coding of audio, video, multimedia and hypermedia information"
+                  }
+               ],
+               "life_cycle":[
+                  {
+                     "stage":"00\n10\n20\n30\n40\n50\n60.60 Publication\n90\n95",
+                     "revisions":"Now\nISO/IEC 21000-18:2007/Amd 1:2008"
+                  }
+               ],
+               "group_info":"Status : Published\nPublication date : 2008-06\nEdition : 1\nNumber of pages : 21\nTechnical Committee : ISO/IEC JTC 1/SC 29 Coding of audio, picture, multimedia and hypermedia information\nICS : 35.040.40 Coding of audio, video, multimedia and hypermedia information"
+            },
+            {
+               "name":"ISO/IEC 21000-7:2007",
+               "url":"https://www.iso.org/contents/data/standard/04/65/46501.html",
+               "ics":"ICS > 35 > 35.040 > 35.040.40",
+               "code":"ISO/IEC 21000-7:2007",
+               "title":"Information technology — Multimedia framework (MPEG-21) — Part 7: Digital Item Adaptation",
+               "abstract":"ISO/IEC 21000-7:2007 specifies the syntax and semantics of tools that may be used to assist the adaptation of Digital Items, i.e. the Digital Item Declaration and resources referenced by the declaration. Users can use the tools to satisfy transmission, storage and consumption constraints, as well as Quality of Service management.\nISO/IEC 21000-7:2007 specifies tools to describe:\nuser characteristics, terminal capabilities, network characteristics and natural environment characteristics;\nthe high-level syntax of a binary media resource, media resource and XML streaming instructions, and properties style sheet;\nthe relationship between Quality of Service constraints, feasible adaptation operations satisfying these constraints and associated media resource qualities that result from adaptation:\nlimitation and optimization constraints on adaptations;\nmeans for linking adaptation decisions with actual media resource adaptation engines;\nmetadata adaptation hint information;\nconfiguration-state information of a Digital Item;\ninformation required for the configuration of an adaptation engine; and\npermitted changes and change constraints.\nISO/IEC 21000-7:2007 does not specify the adaptation engines themselves.",
+               "info":[
+                  {
+                     "status":"Published",
+                     "pub_date":"2007-12",
+                     "edition":"Edition : 2",
+                     "pages":"Number of pages : 420",
+                     "tech_commitee":"Technical Committee : ISO/IEC JTC 1/SC 29 Coding of audio, picture, multimedia and hypermedia information",
+                     "ics":"ICS : 35.040.40 Coding of audio, video, multimedia and hypermedia information"
+                  }
+               ],
+               "life_cycle":[
+                  {
+                     "stage":"00\n10\n20\n30\n40\n50\n60\n90.93 Review\n95",
+                     "revisions":"Previously\nISO/IEC 21000-7:2004\nISO/IEC 21000-7:2004/Amd 1:2006\nISO/IEC 21000-7:2004/Amd 2:2007\nNow confirmed\nISO/IEC 21000-7:2007 Corrigenda/Amendments\nISO/IEC 21000-7:2007/Amd 1:2008\nISO/IEC 21000-7:2007/Cor 1:2008"
+                  }
+               ],
+               "group_info":"Status : Published\nPublication date : 2007-12\nEdition : 2\nNumber of pages : 420\nTechnical Committee : ISO/IEC JTC 1/SC 29 Coding of audio, picture, multimedia and hypermedia information\nICS : 35.040.40 Coding of audio, video, multimedia and hypermedia information"
+            },
+            {
+               "name":"ISO/IEC TR 21000-11:2004",
+               "url":"https://www.iso.org/contents/data/standard/04/04/40487.html",
+               "ics":"ICS > 35 > 35.040 > 35.040.40",
+               "code":"ISO/IEC TR 21000-11:2004",
+               "title":"Information technology — Multimedia framework (MPEG-21) — Part 11: Evaluation Tools for Persistent Association Technologies",
+               "abstract":"MPEG-21 provides a framework within which many elements of multimedia are brought together. In particular, coded representations of content are juxtaposed with metadata descriptors and IPMP protection that apply to the content. This leads to a requirement for tools that can create and maintain (e.g. detect or extract) an association between content, metadata and IPMP elements within MPEG-21.\nISO/IEC TR 21000-11:2004 describes methodologies for the evaluation of two classes of technologies that can create and maintain such associations: \"watermarks\" and \"fingerprints\", when applied to audio content.",
+               "info":[
+                  {
+                     "status":"Published",
+                     "pub_date":"2004-11",
+                     "edition":"Edition : 1",
+                     "pages":"Number of pages : 32",
+                     "tech_commitee":"Technical Committee : ISO/IEC JTC 1/SC 29 Coding of audio, picture, multimedia and hypermedia information",
+                     "ics":"ICS : 35.040.40 Coding of audio, video, multimedia and hypermedia information"
+                  }
+               ],
+               "life_cycle":[
+                  {
+                     "stage":"00\n10\n20\n30\n40\n50\n60\n90.93 Review\n95",
+                     "revisions":"Now confirmed\nISO/IEC TR 21000-11:2004"
+                  }
+               ],
+               "group_info":"Status : Published\nPublication date : 2004-11\nEdition : 1\nNumber of pages : 32\nTechnical Committee : ISO/IEC JTC 1/SC 29 Coding of audio, picture, multimedia and hypermedia information\nICS : 35.040.40 Coding of audio, video, multimedia and hypermedia information"
+            },
+            {
+               "name":"ISO/IEC 21000-5:2004/Amd 2:2007",
+               "url":"https://www.iso.org/contents/data/standard/04/43/44341.html",
+               "ics":"ICS > 35 > 35.040 > 35.040.40",
+               "code":"ISO/IEC 21000-5:2004/Amd 2:2007",
+               "title":"Information technology — Multimedia framework (MPEG-21) — Part 5: Rights Expression Language — Amendment 2: DAC (Dissemination And Capture) profile",
+               "info":[
+                  {
+                     "status":"Published",
+                     "pub_date":"2007-09",
+                     "edition":"Edition : 1",
+                     "pages":"Number of pages : 33",
+                     "tech_commitee":"Technical Committee : ISO/IEC JTC 1/SC 29 Coding of audio, picture, multimedia and hypermedia information",
+                     "ics":"ICS : 35.040.40 Coding of audio, video, multimedia and hypermedia information"
+                  }
+               ],
+               "life_cycle":[
+                  {
+                     "stage":"00\n10\n20\n30\n40\n50\n60.60 Publication\n90\n95",
+                     "revisions":"Now\nISO/IEC 21000-5:2004/Amd 2:2007"
+                  }
+               ],
+               "group_info":"Status : Published\nPublication date : 2007-09\nEdition : 1\nNumber of pages : 33\nTechnical Committee : ISO/IEC JTC 1/SC 29 Coding of audio, picture, multimedia and hypermedia information\nICS : 35.040.40 Coding of audio, video, multimedia and hypermedia information"
+            },
+            {
+               "name":"ISO/IEC 21000-10:2006",
+               "url":"https://www.iso.org/contents/data/standard/04/04/40486.html",
+               "ics":"ICS > 35 > 35.040 > 35.040.40",
+               "code":"ISO/IEC 21000-10:2006",
+               "title":"Information technology — Multimedia framework (MPEG-21) — Part 10: Digital Item Processing",
+               "abstract":"ISO/IEC 21000-10:2006 specifies the syntax and semantics of tools that may be used to process Digital Items.\nISO/IEC 21000-10:2006 specifies:\nDigital Item Methods: Tools enabling users to include sequences of instructions for adding predefined functionality to a Digital Item. Digital Item Methods are authored with the Digital Item Method Language, an extension of ECMAScript language (ISO/IEC 16262), which includes a normative set of Digital Item Base Operations. The predefined functionality specified by a Digital Item Method provides a suggested interaction between a User and the Digital Item.\nDigital Item eXtension Operations: Provide for extended functionality not included by the normative set of Digital Item Base Operations to be implemented efficiently in a higher level programming lanuage.\nLinkage with ISO/IEC 21000-2: Tools for integrating Digital Item Methods and Digital Item eXtension Operations with Digital Item Declarations (as specified by ISO/IEC 21000-2).",
+               "info":[
+                  {
+                     "status":"Published",
+                     "pub_date":"2006-01",
+                     "edition":"Edition : 1",
+                     "pages":"Number of pages : 121",
+                     "tech_commitee":"Technical Committee : ISO/IEC JTC 1/SC 29 Coding of audio, picture, multimedia and hypermedia information",
+                     "ics":"ICS : 35.040.40 Coding of audio, video, multimedia and hypermedia information"
+                  }
+               ],
+               "life_cycle":[
+                  {
+                     "stage":"00\n10\n20\n30\n40\n50\n60\n90.93 Review\n95",
+                     "revisions":"Now confirmed\nISO/IEC 21000-10:2006 Corrigenda/Amendments\nISO/IEC 21000-10:2006/Amd 1:2006"
+                  }
+               ],
+               "group_info":"Status : Published\nPublication date : 2006-01\nEdition : 1\nNumber of pages : 121\nTechnical Committee : ISO/IEC JTC 1/SC 29 Coding of audio, picture, multimedia and hypermedia information\nICS : 35.040.40 Coding of audio, video, multimedia and hypermedia information"
+            },
+            {
+               "name":"ISO/IEC 21000-2:2005",
+               "url":"https://www.iso.org/contents/data/standard/04/11/41112.html",
+               "ics":"ICS > 35 > 35.040 > 35.040.40",
+               "code":"ISO/IEC 21000-2:2005",
+               "title":"Information technology — Multimedia framework (MPEG-21) — Part 2: Digital Item Declaration",
+               "abstract":"The electronic version of this International Standard can be downloaded from the ISO/IEC Information Technology Task Force (ITTF) web site",
+               "info":[
+                  {
+                     "status":"Published",
+                     "pub_date":"2005-10",
+                     "edition":"Edition : 2",
+                     "pages":"Number of pages : 88",
+                     "tech_commitee":"Technical Committee : ISO/IEC JTC 1/SC 29 Coding of audio, picture, multimedia and hypermedia information",
+                     "ics":"ICS : 35.040.40 Coding of audio, video, multimedia and hypermedia information"
+                  }
+               ],
+               "life_cycle":[
+                  {
+                     "stage":"00\n10\n20\n30\n40\n50\n60\n90.93 Review\n95",
+                     "revisions":"Previously\nISO/IEC 21000-2:2003\nNow confirmed\nISO/IEC 21000-2:2005 Corrigenda/Amendments\nISO/IEC 21000-2:2005/Amd 1:2012"
+                  }
+               ],
+               "group_info":"Status : Published\nPublication date : 2005-10\nEdition : 2\nNumber of pages : 88\nTechnical Committee : ISO/IEC JTC 1/SC 29 Coding of audio, picture, multimedia and hypermedia information\nICS : 35.040.40 Coding of audio, video, multimedia and hypermedia information"
+            },
+            {
+               "name":"ISO/IEC 21000-5:2004/Amd 3:2008",
+               "url":"https://www.iso.org/contents/data/standard/04/63/46388.html",
+               "ics":"ICS > 35 > 35.040 > 35.040.40",
+               "code":"ISO/IEC 21000-5:2004/Amd 3:2008",
+               "title":"Information technology — Multimedia framework (MPEG-21) — Part 5: Rights Expression Language — Amendment 3: OAC (Open Access Content) profile",
+               "info":[
+                  {
+                     "status":"Published",
+                     "pub_date":"2008-07",
+                     "edition":"Edition : 1",
+                     "pages":"Number of pages : 23",
+                     "tech_commitee":"Technical Committee : ISO/IEC JTC 1/SC 29 Coding of audio, picture, multimedia and hypermedia information",
+                     "ics":"ICS : 35.040.40 Coding of audio, video, multimedia and hypermedia information"
+                  }
+               ],
+               "life_cycle":[
+                  {
+                     "stage":"00\n10\n20\n30\n40\n50\n60.60 Publication\n90\n95",
+                     "revisions":"Now\nISO/IEC 21000-5:2004/Amd 3:2008"
+                  }
+               ],
+               "group_info":"Status : Published\nPublication date : 2008-07\nEdition : 1\nNumber of pages : 23\nTechnical Committee : ISO/IEC JTC 1/SC 29 Coding of audio, picture, multimedia and hypermedia information\nICS : 35.040.40 Coding of audio, video, multimedia and hypermedia information"
+            },
+            {
+               "name":"ISO/IEC 21000-8:2008/Amd 4:2018",
+               "url":"https://www.iso.org/contents/data/standard/07/44/74432.html",
+               "ics":"ICS > 35 > 35.040 > 35.040.40",
+               "code":"ISO/IEC 21000-8:2008/Amd 4:2018",
+               "title":"Information technology — Multimedia framework (MPEG-21) — Part 8: Reference software — Amendment 4: Media value chain ontology extensions on time-segments and multi-track audio",
+               "info":[
+                  {
+                     "status":"Published",
+                     "pub_date":"2018-10",
+                     "edition":"Edition : 2",
+                     "pages":"Number of pages : 3",
+                     "tech_commitee":"Technical Committee : ISO/IEC JTC 1/SC 29 Coding of audio, picture, multimedia and hypermedia information",
+                     "ics":"ICS : 35.040.40 Coding of audio, video, multimedia and hypermedia information"
+                  }
+               ],
+               "life_cycle":[
+                  {
+                     "stage":"00\n10\n20\n30\n40\n50\n60.60 Publication\n90\n95",
+                     "revisions":"Now\nISO/IEC 21000-8:2008/Amd 4:2018"
+                  }
+               ],
+               "group_info":"Status : Published\nPublication date : 2018-10\nEdition : 2\nNumber of pages : 3\nTechnical Committee : ISO/IEC JTC 1/SC 29 Coding of audio, picture, multimedia and hypermedia information\nICS : 35.040.40 Coding of audio, video, multimedia and hypermedia information"
+            }
+         ]
+      }
+   ]
+}
