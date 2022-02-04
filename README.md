@@ -1,2 +1,2 @@
-# web-scrapper-parser-json
-json parsing program that parsing ISO standard json from website.  
+# Web-scrapper-ISO-standard
+Web scrapper program to scrap all iso standards into excel file  
